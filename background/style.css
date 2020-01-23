@@ -1,0 +1,9 @@
+body {
+  background-color: lightcoral;
+  background-color: royalblue;
+  background-image: url(trex.png);
+  background-repeat: repeat-y;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background: rosybrown url(trex.png) no-repeat top center;
+}
